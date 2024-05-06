@@ -1,4 +1,4 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# EXP-08-Pick-and-place-of-objects-using-industrial-manipulator-
 #  NAME: ROHIT KUMAR M
 #  REG NO: 212221220045
 #  DATE :22-04-20204
